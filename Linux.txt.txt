@@ -1,1 +1,6 @@
 Write down the topics you know in Linux
+1. linux file dir
+2. linux file system
+3. linux structure
+4. diff b/w windows and linux
+5. shell scripting
